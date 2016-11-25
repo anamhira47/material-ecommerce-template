@@ -1,1 +1,1 @@
-# material-ecommerce-template
+# Material Design Ecommerce HTML Template.
